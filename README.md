@@ -36,7 +36,7 @@ The project dependencies are listed in `requirements.txt`. Install them using:
 pip install -r requirements.txt
 
 ## Clone the repository:
-git clone https://github.com/yourusername/PointCloudClassifier.git
+git clone https://github.com/tsufbechor/PointCloudClassifier.git
 cd PointCloudClassifier
 
 ## Install dependencies:
